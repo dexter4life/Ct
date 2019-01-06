@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{18537b4a-87c0-4b7a-96d5-f2e3ae3adadd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{1001cfd8-0722-418c-a2fd-db238878830f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="CtCore\ctcoreapplication.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctdebug.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctevent.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctflags.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctglobal.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctmargins.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctobject.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctpoint.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctrect.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctregexp.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctregexpprivate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctsignal.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctsize.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctutilitydef.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctvariant.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctvec2d.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctstring.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\cttimer.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\ctobjectprivate.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="CtCore\cttcpserver.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CtCore\src\ctcoreapplication.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctdebug.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctevent.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctobject.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctobjectprivate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctrect.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctregexp.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctregexpprivate.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\ctstring.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\src\cttimer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="CtCore\cttcpserver.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
